@@ -1,0 +1,10 @@
+http://answers.opencv.org/question/171470/opencv-ocrtesseractcreate-v305/
+https://stackoverflow.com/questions/32038445/tesseract-opencv-3-0-windows-text-module-small-size-linking-errors
+https://github.com/opencv/opencv_contrib/issues/511
+https://www.webuildinternet.com/2016/06/28/installing-opencv-with-tesseract-text-module-on-ubuntu/
+https://stackoverflow.com/questions/24046089/calculating-skew-of-text-opencv
+http://www.philhack.com/ocr/
+
+-D=C:\Work\TagDecoder\images -i=*.jpg -o=code.jpg -l=400 -L=3200 -d=0  -a=10 -A=170 -w=1
+
+tesseract305d.lib;opencv_text320d.lib;opencv_core320d.lib;opencv_highgui320d.lib;opencv_imgcodecs320d.lib;opencv_imgproc320d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)

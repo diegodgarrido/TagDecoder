@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1521455204 source:/home/dgarrido/work/TagDecoder/blobcleanup.cpp
+	"globals.h"
+	"blobcleanup.h"
+
+1521117982 /home/dgarrido/work/TagDecoder/blobcleanup.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/ximgproc.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522180261 source:/home/dgarrido/work/TagDecoder/fileutils.cpp
+	"fileutils.h"
+	<stdarg.h>
+
+1520848868 /home/dgarrido/work/TagDecoder/fileutils.h
+	<Windows.h>
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dirent.h>
+	"dirent.h"
+	<string>
+	<iostream>
+	<vector>
+
+1522335634 source:/home/dgarrido/work/TagDecoder/geometry.cpp
+	"geometry.h"
+	"blobcleanup.h"
+
+1522205869 /home/dgarrido/work/TagDecoder/geometry.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+	"globals.h"
+
+1522352784 source:/home/dgarrido/work/TagDecoder/TagDecoder.cpp
+	"Tagdecoder.h"
+	"opencv2/core/version.hpp"
+
+1519755982 /home/dgarrido/work/TagDecoder/dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1522161145 source:/home/dgarrido/work/TagDecoder/imageproc.cpp
+	"imageproc.h"
+
+1521281960 /home/dgarrido/work/TagDecoder/imageproc.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522160410 /home/dgarrido/work/TagDecoder/Tagdecoder.h
+	"tesseract/baseapi.h"
+	"fileutils.h"
+	"geometry.h"
+	"blobcleanup.h"
+	"imageproc.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1522353006 /home/dgarrido/work/TagDecoder/globals.h
+
+1519742530 source:/home/dgarrido/work/TagDecoder/main.cpp
+	<iostream>
+
+1522171253 source:/home/dgarrido/work/TagDecoder/messages.cpp
+	"opencv2/core.hpp"
+	"fileutils.h"
+	"globals.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1523158071 source:/home/diego/work/TagDecoder/blobcleanup.cpp
+	"globals.h"
+	"blobcleanup.h"
+
+1523278453 /home/diego/work/TagDecoder/globals.h
+
+1521117982 /home/diego/work/TagDecoder/blobcleanup.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/ximgproc.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1523271382 source:/home/diego/work/TagDecoder/fileutils.cpp
+	"fileutils.h"
+	<stdarg.h>
+	<algorithm>
+	<set>
+
+1523271382 /home/diego/work/TagDecoder/fileutils.h
+	<Windows.h>
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dirent.h>
+	"dirent.h"
+	<string>
+	<iostream>
+	<vector>
+
+1519755982 /home/diego/work/TagDecoder/dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1523296697 source:/home/diego/work/TagDecoder/geometry.cpp
+	"geometry.h"
+	"blobcleanup.h"
+
+1522205868 /home/diego/work/TagDecoder/geometry.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+	"globals.h"
+
+1522161144 source:/home/diego/work/TagDecoder/imageproc.cpp
+	"imageproc.h"
+
+1521281960 /home/diego/work/TagDecoder/imageproc.h
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/photo/photo.hpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1523271069 source:/home/diego/work/TagDecoder/messages.cpp
+	"opencv2/core.hpp"
+	"fileutils.h"
+	"globals.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
+1523296167 source:/home/diego/work/TagDecoder/TagDecoder.cpp
+	"Tagdecoder.h"
+	"opencv2/core/version.hpp"
+
+1523272380 /home/diego/work/TagDecoder/Tagdecoder.h
+	"tesseract/baseapi.h"
+	"baseapi.h"
+	"fileutils.h"
+	"geometry.h"
+	"blobcleanup.h"
+	"imageproc.h"
+	<iostream>
+	<fstream>
+	<string>
+
